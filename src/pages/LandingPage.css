@@ -1,0 +1,42 @@
+.bbody{
+  background-image: url('https://i.postimg.cc/KYP11RMN/Screenshot-10.png');
+  background-size: cover;
+}
+
+tc {
+    text-align: center;
+  }
+  
+  .b1 {
+    text-align: start;
+    position: relative;
+    left: 50px;
+  }
+  
+  .b2 {
+    text-align: center;
+  }
+  
+  .rr {
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Responsive styles for smaller screens */
+  @media screen and (max-width: 768px) {
+    .b1 {
+      text-align: center;
+      left: 0;
+    }
+  
+    .rr {
+      display: block;
+      margin: 0 auto;
+    }
+  }
+ .e3{
+text-align: center;
+ }
+ .t8{
+    text-align: center;
+ }
